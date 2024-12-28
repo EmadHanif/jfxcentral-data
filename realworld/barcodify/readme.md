@@ -19,6 +19,12 @@ Its core feature is an advanced template configuration system, which allows user
 - **Template Management**: Easily create, save, and export templates for future barcode generation.
 - **Intelligent Bundling and Concurrent Processing**: Automatically bundles and aligns barcodes based on user specifications, efficiently generating barcodes in batches with concurrent column processing.
 
+### Video Demonstration
+
+![Barcodify Video](youtube:IZ7fTHC3rBM)
+
+### Application Screenshots
+
 ![Screen 1](screen1.jpg)
 
 ![Screen 2](screen2.jpg)
